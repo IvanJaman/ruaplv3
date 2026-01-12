@@ -58,7 +58,7 @@ register.</p>
  <?php
 // DB connection info
 // TODO: Update the values for $host, $user, $pwd, and $dbusing the values you retrieved 
-// earlier from the Azure Portal. $host = "value of Data Source";
+// earlier from the Azure Portal. $host = "value of Data Source"
 $host = "jamanapp-server.mysql.database.azure.comm";
 $user = "ruapUser@ruapdbserver";
 $pwd = "Ruap1234";
